@@ -1,0 +1,14 @@
+h1{
+	color: red;
+	font: "	Arial Bold";
+	text-align: center;
+	
+}
+
+#input{
+	margin-left: 90px;
+	#position: absolute;
+	float: left;
+	right: 60px;
+	
+}
